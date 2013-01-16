@@ -1,7 +1,7 @@
 <?php 
 /*************************************************************************
   	Author			: Chandan Kumar
-	Project			: Common
+	Project			: Common Projects
 	Purpose			: Common Function that is usable in all class
 	Organization		: Total Internet Solutions
 	Created On		: 23 July 2012
