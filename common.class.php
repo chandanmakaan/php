@@ -3,7 +3,7 @@
   Author			: Chandan Kumar
 	Project			: Common
 	Purpose			: Common Function that is usable in all class
-	Organization	: Total Internet Solutions
+	Organization		: Total Internet Solutions
 	Created On		: 23 July 2012
 ************************************************************************/
 class CommonClass{
@@ -70,7 +70,7 @@ class CommonClass{
 	Author : Chandan Kumar | Purpose : Function For 
 	------------------------------------------------------------------------------------*/
 	function ByteSize($bytes) 
-    {
+    	{
 		$size = $bytes / 1024;
 		if($size < 1024)
 		{
@@ -92,7 +92,7 @@ class CommonClass{
 		}
 		
 		return $size;
-    }
+    	}
 	
 	/*----------------------------------------------------------------------------------
 	Author : Chandan Kumar | Purpose : Function For 
