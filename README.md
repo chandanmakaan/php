@@ -1,4 +1,4 @@
 php
 ===
 
-To contain the PHP Common files
+Use Common Script 
